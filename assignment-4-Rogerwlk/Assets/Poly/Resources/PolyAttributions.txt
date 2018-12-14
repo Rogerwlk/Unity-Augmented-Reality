@@ -1,0 +1,13 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: Hot glue gun
+Author: Poly by Google
+URL: https://poly.google.com/view/1iYL7lFBfAP
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Snow Flakes
+Author: Larry James
+URL: https://poly.google.com/view/3E0lNi-QN47
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode

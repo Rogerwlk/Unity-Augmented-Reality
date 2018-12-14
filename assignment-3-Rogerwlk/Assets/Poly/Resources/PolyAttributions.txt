@@ -1,0 +1,13 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: Fish Tank 🎏
+Author: Chris Ross
+URL: https://poly.google.com/view/2Rb9zxgkDEM
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Water gun
+Author: 永田大一
+URL: https://poly.google.com/view/1W8CTzsXXRJ
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
